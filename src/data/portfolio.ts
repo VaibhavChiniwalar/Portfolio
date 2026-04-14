@@ -48,7 +48,7 @@ export const portfolioData: PortfolioData = {
   role: "Java Developer",
   about:
     "Motivated Java Developer (2025 Graduate) with strong fundamentals in Core Java, Object-Oriented Programming (OOP), SQL, Data Structures and Algorithms (DSA), hands-on exposure to developing backend components and understanding API-driven development. Passionate about building efficient, scalable applications and contributing to high-performance teams in a dynamic Agile environment.",
-  profileImage: "/images/Myimage.jpg",
+  profileImage: "/images/MyImage.jpg",
   social: [
     {
       platform: "GitHub",
